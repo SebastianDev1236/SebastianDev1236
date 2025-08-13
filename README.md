@@ -15,7 +15,7 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%92%BB+Creo+c%C3%B3digo+limpio+y+escalable++;%E2%9A%A1+Desarrollo+soluciones+r%C3%A1pidas+;%F0%9F%9A%80+Lanzo+proyectos+de++gran+impacto+" alt="Typing SVG" /></a>
 </p> 
 <a target="_blank" align="center">
-  <img align="center" top="100" height="600" width="600" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="100" height="300" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 
