@@ -12,15 +12,16 @@
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%92%BB+Creo+c%C3%B3digo+limpio+y+escalable++;%E2%9A%A1+Desarrollo+soluciones+r%C3%A1pidas+;%F0%9F%9A%80+Lanzo+proyectos+de++gran+impacto+" alt="Typing SVG" /></a>
 </p> <br>
-<a target="_blank" align="center">
-  <img align="right"  top="400"  height="300" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+
 
 
 
 # 💫Sobre Mi:
 Soy Analista y Desarrollador de Sistemas de Información con sólida experiencia en el<br>diseño, desarrollo, implementación y mantenimiento de aplicaciones empresariales. Me<br>especializo en la creación de soluciones tecnológicas que optimizan procesos, mejoran<br>la experiencia del usuario y aportan valor estratégico a las organizaciones. Mi enfoque<br>se centra en el trabajo colaborativo con equipos multidisciplinarios para identificar<br>necesidades, proponer alternativas innovadoras y ejecutar proyectos eficientes que<br>cumplan con altos estándares de calidad y rendimiento.<br>
 
+<a target="_blank" align="center">
+  <img align="right"  top="400"  height="300" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sebastian-fierro-cubillos-32b341270/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sebasdev.git@gmail.com) 
