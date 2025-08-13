@@ -20,11 +20,6 @@
 
 
 
-<br>
-	
-
-<br>
-
 # 💫Sobre Mi:
 Soy Analista y Desarrollador de Sistemas de Información con sólida experiencia en el<br>diseño, desarrollo, implementación y mantenimiento de aplicaciones empresariales. Me<br>especializo en la creación de soluciones tecnológicas que optimizan procesos, mejoran<br>la experiencia del usuario y aportan valor estratégico a las organizaciones. Mi enfoque<br>se centra en el trabajo colaborativo con equipos multidisciplinarios para identificar<br>necesidades, proponer alternativas innovadoras y ejecutar proyectos eficientes que<br>cumplan con altos estándares de calidad y rendimiento.<br>
 
