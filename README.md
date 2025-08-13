@@ -7,7 +7,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SebastianDev1236&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/> <br>
 </div> <br>
 
-<h1 align="center"><b>Hola , Soy Sebastian Fierro / Desarrollador Fullstack</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola , Soy Sebastian Fierro / Analista & Desarrollador Fullstack</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%92%BB+Creo+c%C3%B3digo+limpio+y+escalable++;%E2%9A%A1+Desarrollo+soluciones+r%C3%A1pidas+;%F0%9F%9A%80+Lanzo+proyectos+de++gran+impacto+" alt="Typing SVG" /></a>
