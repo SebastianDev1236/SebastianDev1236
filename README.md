@@ -1,3 +1,15 @@
+<div align="center">
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/SebastianDev1236/count.svg"/>
+  <br/>
+</div>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=SebastianDev1236&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianDev1236&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SebastianDev1236&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
+</div>br
+
+
 # 💫 About Me:
 Soy Analista y Desarrollador de Sistemas de Información con sólida experiencia en el<br>diseño, desarrollo, implementación y mantenimiento de aplicaciones empresariales. Me<br>especializo en la creación de soluciones tecnológicas que optimizan procesos, mejoran<br>la experiencia del usuario y aportan valor estratégico a las organizaciones. Mi enfoque<br>se centra en el trabajo colaborativo con equipos multidisciplinarios para identificar<br>necesidades, proponer alternativas innovadoras y ejecutar proyectos eficientes que<br>cumplan con altos estándares de calidad y rendimiento.<br>
 
